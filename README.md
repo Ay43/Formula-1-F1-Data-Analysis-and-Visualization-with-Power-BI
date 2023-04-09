@@ -91,4 +91,4 @@ So, there you have it. Lewis, Sebastian and Nico are the Top three dominating dr
 
 ## Contacts and other projects
 
-[Click here](https://ay43.github.io/#work)
+[Click here](https://ay43.github.io)
